@@ -1,0 +1,7 @@
+{
+  "name": "pnpm-v9-tarball-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.2/xlsx-0.20.2.tgz"
+  }
+}
